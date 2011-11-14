@@ -2687,7 +2687,9 @@ body {
 }
 
 .partner_badge {
-	height: 90px;
+	height: 80px;
+	min-width: 100px;
+	overflow: hidden;
 	border: 1px solid #666;
 	margin-bottom: 5px;
 	background-color: #FFF;
