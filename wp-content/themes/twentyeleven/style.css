@@ -2685,6 +2685,12 @@ body {
 	padding-left: 2%;
 	padding-right: 2%;
 }
+.partner_cell:hover {
+	background-color: #999;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
 
 .partner_badge {
 	height: 80px;
