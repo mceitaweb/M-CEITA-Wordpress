@@ -2681,11 +2681,6 @@ body {
 	padding-right: 60px;
 	padding-top: 45px;
 	padding-bottom: 45px;
-	background-color: #AAA;
-	background-size: cover
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
 }
 .cell {
 	height: 175px;
