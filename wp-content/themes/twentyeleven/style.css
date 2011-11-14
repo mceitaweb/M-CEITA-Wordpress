@@ -2668,3 +2668,48 @@ p.comment-form-comment {
 #ie7 section.recent-posts {
 	margin-right: 7.6%;
 }
+
+body {
+	font-family: helvetica;
+	font-size: 12px;
+}
+/*badge grid */
+#grid {
+	width: 750px;
+	margin: auto;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 45px;
+	padding-bottom: 45px;
+	background-color: #AAA;
+	background-size: cover
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+.cell {
+	height: 175px;
+	width: 200px;
+	float: left;
+	margin-top: 15px;
+}
+.left {
+	margin-right: 75px;
+}
+.middle {
+	margin-right: 75px;
+}
+.badge {
+	height: 90px;
+	border: 1px solid #666;
+	margin-bottom: 5px;
+	background-color: #FFF;
+	-webkit-transition: all 150ms ease-in;
+	-moz-transition: all 150ms ease-in;
+	-o-transition: all 150ms ease-in;
+	-ms-transition: all 150ms ease-in;
+	transition: all 150ms ease-in;
+}
+.badge:hover {
+	border-color: #0F0;
+}
