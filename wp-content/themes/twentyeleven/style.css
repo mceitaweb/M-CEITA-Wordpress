@@ -2684,9 +2684,15 @@ body {
 	margin-bottom: 15px;
 	padding-left: 2%;
 	padding-right: 2%;
+	padding-top: 2%;
+	-webkit-transition: all 150ms ease-in;
+	-moz-transition: all 150ms ease-in;
+	-o-transition: all 150ms ease-in;
+	-ms-transition: all 150ms ease-in;
+	transition: all 150ms ease-in;
 }
 .partner_cell:hover {
-	background-color: #999;
+	background-color: #E2E2E2;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
