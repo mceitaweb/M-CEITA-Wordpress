@@ -2700,3 +2700,56 @@ body {
 .partner_badge:hover {
 	border-color: #0F0;
 }
+
+/* service descriptions */
+h2.handle {
+	padding: 0;
+	margin: 5px 0 0 0;
+	background: #fff;
+	border: 1px solid #d6d6d6;
+	height: 36px;	line-height: 36px;
+	width: 500px;
+	font-size: 1.25em;
+	font-weight: bold;
+	float: left;
+}
+h2.handle a {
+	text-decoration: none;
+	display: block;
+	padding: 0 05px 0;
+	color: #333;
+}
+h2.handle a:hover {
+	color: #333;
+	background: #fafafa;
+}
+h2.active {background-position: left bottom;}
+.service_content_container {
+	margin: 0 0 0 0; padding: 0;
+	overflow: hidden;
+
+	width: 500px;
+	clear: both;
+	background: #f0f0f0;
+	border: 1px solid #d6d6d6;
+	color: #333;
+}
+.service_content_container .block {
+	padding: 20px;
+}
+.service_content_container .block p {
+	padding: 5px 0;
+	margin: 5px 0;
+}
+.service_content_container img {
+	float: left;
+	padding: 0 5px 0 5px;
+}
+.service_quote {
+	font-style: italic;
+	color: #777;
+	text-align: right;
+	height: 141px;
+	padding-left: 0px;
+}
+
