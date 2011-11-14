@@ -68,6 +68,7 @@
 	 */
 	wp_head();
 ?>
+<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/accordion.js"></script>
 </head>
 
 <body <?php body_class(); ?>>
