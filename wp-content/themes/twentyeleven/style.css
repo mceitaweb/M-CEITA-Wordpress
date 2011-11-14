@@ -2674,19 +2674,19 @@ body {
 	font-size: 12px;
 }
 /*badge grid */
-#grid {
+#partner_grid {
 	width: 100%;
 }
-.cell {
+.partner_cell {
 	height: 175px;
 	width: 33.33%;
 	float: left;
-	margin-top: 15px;
+	margin-bottom: 15px;
 	padding-left: 10px;
 	padding-right: 10px;
 }
 
-.badge {
+.partner_badge {
 	height: 90px;
 	border: 1px solid #666;
 	margin-bottom: 5px;
@@ -2697,6 +2697,6 @@ body {
 	-ms-transition: all 150ms ease-in;
 	transition: all 150ms ease-in;
 }
-.badge:hover {
+.partner_badge:hover {
 	border-color: #0F0;
 }
