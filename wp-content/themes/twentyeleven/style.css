@@ -2742,7 +2742,6 @@ h2.active {background-position: left bottom;}
 .service_content_container {
 	margin: 0 0 0 0; padding: 0;
 	overflow: hidden;
-
 	width: 100%;
 	clear: both;
 	background: #f0f0f0;
@@ -2750,7 +2749,7 @@ h2.active {background-position: left bottom;}
 	color: #333;
 }
 .service_content_container .block {
-	padding: 20px;
+	padding: 10px;
 }
 .service_content_container .block p {
 	padding: 5px 0;
