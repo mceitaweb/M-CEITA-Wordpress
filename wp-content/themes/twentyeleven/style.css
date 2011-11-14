@@ -2721,12 +2721,17 @@ h2.handle {
 	padding: 0;
 	margin: 5px 0 0 0;
 	background: #fff;
-	border: 1px solid #d6d6d6;
+	border: 1px solid #666;
 	height: 36px;	line-height: 36px;
 	width: 100%;
 	font-size: 1.25em;
 	font-weight: bold;
 	float: left;
+	-webkit-transition: all 150ms ease-in;
+	-moz-transition: all 150ms ease-in;
+	-o-transition: all 150ms ease-in;
+	-ms-transition: all 150ms ease-in;
+	transition: all 150ms ease-in;
 }
 h2.handle a {
 	text-decoration: none;
@@ -2744,12 +2749,12 @@ h2.active {background-position: left bottom;}
 	overflow: hidden;
 	width: 100%;
 	clear: both;
-	background: #f0f0f0;
-	border: 1px solid #d6d6d6;
+	background: #E2E2E2;
+	border: 1px solid #666;
 	color: #333;
 }
 .service_content_container .block {
-	padding: 10px;
+	padding: 20px;
 }
 .service_content_container .block p {
 	padding: 5px 0;
