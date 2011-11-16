@@ -2779,7 +2779,7 @@ h2.active {background-position: left bottom;}
 }
 .showcase-slide {
 	width: 80%;
-	background-color: #E2E2E2;;
+	background-color: #E2E2E2;
 	height: 100%;
 	float: left;
 	-webkit-border-radius: 5px;
@@ -2788,11 +2788,7 @@ h2.active {background-position: left bottom;}
 }
 .showcase-content {
 	padding: 10px;
-	height: 50%;
-}
-.showcase-caption {
-	padding: 10px;
-	height: 50%;
+	height: 100%;
 }
 .showcase-button-container {
 	width: 9.6%;
