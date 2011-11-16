@@ -2773,8 +2773,8 @@ h2.active {background-position: left bottom;}
 }
 /* stories from the field */
 #showcase {
-	width: 70%;
-	height: 400px;
+	width: 100%;
+	height: 250px;
 	margin: auto;
 }
 .showcase-slide {
