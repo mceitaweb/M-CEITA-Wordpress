@@ -2796,9 +2796,22 @@ h2.active {background-position: left bottom;}
 	text-align: center;
 }
 #showcase-next, #showcase-previous {
+	width: 30px;
 	height: 30px;
 	margin: auto;
 }
+#showcase-next {
+	background-image: http://204.106.31.83/wp-content/uploads/2011/11/arrow_r.png;
+}
+#showcase-next:hover {
+	background-image: http://204.106.31.83/wp-content/uploads/2011/11/arrow_hr.png;	
+}
+#showcase-previous {
+	background-image: http://204.106.31.83/wp-content/uploads/2011/11/arrow_l.png;
+}
+#showcase-previous:hover {
+	background-image: http://204.106.31.83/wp-content/uploads/2011/11/arrow_hl.png;	
+}
 .showcase-spacer {
-	height: 95px;
+	height: 100px;
 }
