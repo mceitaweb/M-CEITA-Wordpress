@@ -2771,4 +2771,38 @@ h2.active {background-position: left bottom;}
 	height: 141px;
 	padding-left: 0px;
 }
-
+/* stories from the field */
+#showcase {
+	width: 70%;
+	height: 400px;
+	margin: auto;
+}
+.showcase-slide {
+	width: 80%;
+	background-color: #E2E2E2;;
+	height: 100%;
+	float: left;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.showcase-content {
+	padding: 20px;
+	height: 75%;
+}
+.showcase-caption {
+	padding: 20px;
+	height: 25%;
+}
+.showcase-button-container {
+	width: 9.6%;
+	float: left;
+	text-align: center;
+}
+#showcase-next, #showcase-previous {
+	height: 30px;
+	margin: auto;
+}
+.showcase-spacer {
+	height: 185px;
+}
