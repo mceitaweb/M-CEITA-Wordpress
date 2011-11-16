@@ -2787,12 +2787,12 @@ h2.active {background-position: left bottom;}
 	border-radius: 5px;
 }
 .showcase-content {
-	padding: 20px;
-	height: 75%;
+	padding: 10px;
+	height: 50%;
 }
 .showcase-caption {
-	padding: 20px;
-	height: 25%;
+	padding: 10px;
+	height: 50%;
 }
 .showcase-button-container {
 	width: 9.6%;
@@ -2804,5 +2804,5 @@ h2.active {background-position: left bottom;}
 	margin: auto;
 }
 .showcase-spacer {
-	height: 185px;
+	height: 95px;
 }
