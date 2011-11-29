@@ -1101,7 +1101,7 @@ table {width: 100%;}
 	width: 100%;
 }
 .partner_cell {
-	height: 175px;
+	height: 200px;
 	width: 29.33%;
 	float: left;
 	margin-bottom: 15px;
@@ -1110,6 +1110,7 @@ table {width: 100%;}
 	padding-top: 2%;
 	min-width: 100px;
 	font-size: 10px;
+	line-height: 12px;
 	-webkit-transition: all 150ms ease-in;
 	-moz-transition: all 150ms ease-in;
 	-o-transition: all 150ms ease-in;
