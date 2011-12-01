@@ -152,7 +152,7 @@ nav ul ul {
 }
 nav ul ul li {
 	min-width: 180px;
-	padding: 0px 0 9px 0;
+	padding: 10px 0 10px 0;
 }
 nav ul ul li a {
 	margin: 10px;
@@ -165,6 +165,7 @@ nav ul li:hover > ul {
 	color: #FFF;
 	display: block;
 	background: #024A21;
+	margin-top: 10px;
 }
 nav ul li.current_page_item > a, nav ul li.current-menu-ancestor > a, nav ul li.current-menu-item > a, nav ul li.current-menu-parent > a {
 	/*border-bottom: 1px dashed #fff;*/
