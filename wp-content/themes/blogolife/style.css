@@ -133,14 +133,13 @@ nav a:hover {
 nav ul {
 	list-style: none;
 	margin: 0px 0px;
-	padding: 9px 0 0 0;
 	display: inline-block;
 }
 nav ul li {
 	float: left;
 	position: relative;
 	margin: 0 20px 0 0;
-	padding-bottom: 10px;
+	padding: 10px;
 }
 nav ul ul {
 	display: none;
@@ -165,6 +164,7 @@ nav ul ul ul {
 nav ul li:hover > ul {
 	color: #FFF;
 	display: block;
+	background: #024A21;
 }
 nav ul li.current_page_item > a, nav ul li.current-menu-ancestor > a, nav ul li.current-menu-item > a, nav ul li.current-menu-parent > a {
 	/*border-bottom: 1px dashed #fff;*/
@@ -783,7 +783,7 @@ aside {
 }
 .widget-title h3 {
 	color: #fff;
-	padding: 6px 0 5px 20px;
+	padding: 8px 0 0px 20px;
 	font-size: 20px;
 }
 .widget-title h3 a {
@@ -1005,3 +1005,9 @@ nav, nav ul ul, .postformat, .page-header, .widget-title {
 	height: 9px;
 	background-position: 9px 9px;
 }
+
+/*added rules*/
+.sub-menu {
+	background: #024A21;
+}
+
