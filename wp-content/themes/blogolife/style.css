@@ -1009,6 +1009,7 @@ nav, nav ul ul, .postformat, .page-header, .widget-title {
 
 /*added rules*/
 .sub-menu {
-	background: #024A21;
+	background: #41A66C;
+	border: 1px solid #C5D1D9;
 }
 
