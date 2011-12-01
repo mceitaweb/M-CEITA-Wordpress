@@ -27,8 +27,8 @@
 <!--[if lte IE 9]><link href="<?php echo get_template_directory_uri(); ?>/css/ie.css" rel="stylesheet" media="screen" type="text/css" /><![endif]-->
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 <?php if ( is_singular() && get_option( 'thread_comments' ) ) wp_enqueue_script( 'comment-reply' ); ?>
-<?php wp_enqueue_script("jquery"); ?>
 <?php wp_head(); ?>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
 <script type="text/javascript"
    src="<?php bloginfo("template_url"); ?>/js/showcase.js"></script>
 </head>
