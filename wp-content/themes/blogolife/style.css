@@ -321,6 +321,7 @@ article {
 .entry-header {
 	background: transparent url(images/entry-header.png) top left repeat-x;
 	border-bottom:  1px solid #c5d1d9;
+	height: 38px;
 }
 .entry-title {
 	font-size:  18px;
