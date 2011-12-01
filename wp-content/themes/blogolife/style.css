@@ -141,6 +141,7 @@ nav ul li {
 	position: relative;
 	margin: 0 20px 0 0;
 	padding-bottom: 10px;
+	color: #EEE;
 }
 nav ul ul {
 	display: none;
@@ -163,6 +164,7 @@ nav ul ul ul {
 	top: 0;
 }
 nav ul li:hover > ul {
+	color: #FFF;
 	display: block;
 }
 nav ul li.current_page_item > a, nav ul li.current-menu-ancestor > a, nav ul li.current-menu-item > a, nav ul li.current-menu-parent > a {
