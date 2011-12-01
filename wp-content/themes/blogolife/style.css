@@ -780,6 +780,7 @@ aside {
 }
 .widget-title {
 	position: relative;
+	height: 40px;
 }
 .widget-title h3 {
 	color: #fff;
