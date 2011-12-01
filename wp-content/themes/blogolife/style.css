@@ -169,7 +169,7 @@ nav ul li:hover > ul {
 }
 nav ul li.current_page_item > a, nav ul li.current-menu-ancestor > a, nav ul li.current-menu-item > a, nav ul li.current-menu-parent > a {
 	/*border-bottom: 1px dashed #fff;*/
-	color:#FFF;
+	color:#EEEs;
 }
 /* --- --- [ nav-below ] --- --- */
 #nav-below {
