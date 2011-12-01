@@ -1,31 +1,31 @@
 /* CSS Document */
-/* color */ /* #98b827 */
+/* color */ /* #A3D9BA */
 
 a, a:hover, #site-title a:hover, .entry-title a:hover, #recentcomments li a, .widget ul li .rsswidget, .edit-i a, .comment-awaiting-moderation  {
-	color: #98b827;
+	color: #A3D9BA;
 }
 nav, nav ul ul, .postformat, .page-header, .widget-title {
-	background: #98b827 url(line.png) top left repeat-x;
+	background: #A3D9BA url(line.png) top left repeat-x;
 }
 .left-corner, .right-corner {
 	background: transparent url(corners.png);
 }
 
 .entry-title a:hover, #copy a:hover, .date-i a:hover, .comment-i a:hover, .author-i a:hover, #recentcomments li:hover  {
-	border-bottom:  1px dashed #98b827;
+	/*border-bottom:  1px dashed #A3D9BA;*/
 }
 .widget ul li a:hover {
-	border-bottom:  1px dashed #98b827;
-	color: #98b827;
+	/*border-bottom:  1px dashed #A3D9BA;*/
+	color: #A3D9BA;
 	}
 #submit, #searchform #searchsubmit {
-	background: #98b827 url(line.png) top left repeat-x;
-	border: 1px solid #98b827;
+	background: #A3D9BA url(line.png) top left repeat-x;
+	border: 1px solid #A3D9BA;
 }
 #wp-calendar a, #wp-calendar #prev a:hover, #wp-calendar #next a:hover {
-	background: #98b827 url(line.png) bottom left repeat-x;
+	background: #A3D9BA url(line.png) bottom left repeat-x;
 	}
-.entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6 {color: #98b827;}
+.entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6 {color: #A3D9BA;}
 /* --- --- [ Corners ] --- --- */
 
 .left-corner {

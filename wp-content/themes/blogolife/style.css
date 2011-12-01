@@ -127,7 +127,7 @@ nav a {
 	text-decoration: none;
 }
 nav a:hover {
-	border-bottom: 1px dashed #fff;
+	/*border-bottom: 1px dashed #fff;*/
 	color: #fff;
 }
 nav ul {
@@ -215,7 +215,7 @@ nav ul li.current_page_item > a, nav ul li.current-menu-ancestor > a, nav ul li.
 }
 .page-header a {
 	text-decoration: none;
-	border-bottom: 1px dashed #fff;
+	/*border-bottom: 1px dashed #fff;*/
 	color: #f3f3f3;
 }
 .page-header a:hover {
@@ -786,43 +786,7 @@ aside {
 }
 .widget-title h3 a {
 	color: #fff;
-	border-bottom: 1px dashed #fff;
-	text-decoration: none;
-}
-.widget-title h3 a:hover {
-	color: #fff;
-	border-bottom: 1px solid #fff;
-	text-decoration: none;
-}
-aside ul, aside div {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-}
-.widget .children {
-	margin: 0px 0 0 5px;
-	padding: 0px;
-}
-aside h3 {
-	font-family: Arial, sans-serif;
-}
-.textwidget {
-	margin: 20px 30px 0 10px;
-	color: #666;
-	line-height: 20px;
-}
-.textwidget p {
-	margin: 0px;
-	color: #666;
-	line-height: 20px;
-}
-#copy {
-	width: 950px;
-	margin: 0px auto;
-	padding:5px;
-	border: 1px solid #c5d1d9;
-	border-top:none;
-	background-color:#FFF;
-	font-family: Arial, Helvetica, sans-serif;
+	/*border-bottom: 1px dashed #fff;ns-serif;*/
 	text-align: right;
 }
 #copy p {
@@ -1005,10 +969,10 @@ nav, nav ul ul, .postformat, .page-header, .widget-title {
 	background: transparent url(images/red/corners.png);
 }
 .entry-title a:hover, #copy a:hover, .comment-i a:hover, .author-i a:hover, .date-i a:hover, #recentcomments li:hover {
-	border-bottom:  1px dashed #b41423;
+	/*border-bottom:  1px dashed #b41423;*/
 }
 .widget ul li a:hover {
-	border-bottom:  1px dashed #b41423;
+	/*border-bottom:  1px dashed #b41423;*/
 	color: #b41423;
 }
 #submit, #searchform #searchsubmit {
