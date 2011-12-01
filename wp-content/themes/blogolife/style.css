@@ -139,7 +139,7 @@ nav ul {
 nav ul li {
 	float: left;
 	position: relative;
-	margin: 0 20px 5px 0;
+	margin: 0 20px 0 0;
 }
 nav ul ul {
 	display: none;
@@ -165,7 +165,7 @@ nav ul li:hover > ul {
 	display: block;
 }
 nav ul li.current_page_item > a, nav ul li.current-menu-ancestor > a, nav ul li.current-menu-item > a, nav ul li.current-menu-parent > a {
-	border-bottom: 1px dashed #fff;
+	/*border-bottom: 1px dashed #fff;*/
 	color:#FFF;
 }
 /* --- --- [ nav-below ] --- --- */
@@ -178,7 +178,7 @@ nav ul li.current_page_item > a, nav ul li.current-menu-ancestor > a, nav ul li.
 	text-decoration: none;
 }
 #nav-below a:hover {
-	border-bottom:  1px dashed #fff;
+	/*border-bottom:  1px dashed #fff;*/
 }
 #nav-below .nav-previous {
 	margin-left: 20px;
