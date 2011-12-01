@@ -47,8 +47,8 @@ $j(document).ready(function() {
 	$j('.slide-content').css('width', '-=100'); //subtract the static values of the left and right buttons and padding
 	
 	//handle clicks on left and right buttons to manually advance slides
-	$j(document).on('click', '.slide-button.right', next_slide);
-	$j(document).on('click', '.slide-button.left', previous_slide); 
+	$j('.slide-button.right').click(next_slide);
+	$j('.slide-button.left').click(previous_slide); 
 
 	//starts the slideshow
 	reset_timer();
