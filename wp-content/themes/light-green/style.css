@@ -678,3 +678,128 @@ sub, sup {line-height:1.2em;}
 h1, h2, h3, h4, h5, h6 {clear: both;}
 
 .gallery-item img {margin: 0 auto;}
+
+
+/*PARTNER GRID -- for Our Partners*/
+#partner_grid {
+	width: 100%;
+}
+.partner_cell {
+	height: 200px;
+	width: 29.33%;
+	float: left;
+	margin-bottom: 15px;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 2%;
+	min-width: 100px;
+	line-height: 12px;
+	font-size: 10px;
+	-webkit-transition: all 150ms ease-in;
+	-moz-transition: all 150ms ease-in;
+	-o-transition: all 150ms ease-in;
+	-ms-transition: all 150ms ease-in;
+	transition: all 150ms ease-in;
+}
+.partner_cell:hover {
+	background-color: #E2E2E2;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.partner_badge {
+	height: 80px;
+	min-width: 100px;
+	overflow: hidden;
+	border: 1px solid #038C3E;
+	margin-bottom: 5px;
+	background-color: #FFF;
+	-webkit-transition: all 150ms ease-in;
+	-moz-transition: all 150ms ease-in;
+	-o-transition: all 150ms ease-in;
+	-ms-transition: all 150ms ease-in;
+	transition: all 150ms ease-in;
+}
+.partner_badge:hover {
+	border-color: #A3D9BA;
+}
+
+/* slideshow for stories from the field */
+.slide-height {
+	/* the showcase has a fixed height.
+	if this value is modified, the slide buttons will not be aligned correctly
+	modify the margin-top value for slide-button class to correct */
+	height: 300px;
+}
+
+/* window for viewing slides
+we use overflow: hidden to prevent any slides not in the window from being displayed */
+#showcase {
+	width: 75%; /* this width can be modified safely */
+	margin: auto;
+	overflow: hidden;
+}
+
+/* contains all of the slide wrappers--width is set dynamically by showcase.js */
+#slide-reel {
+	position: relative;
+}
+
+/* the slide-wrapper allows us to vary the width of the slide itself without being pixel precise */
+.slide-wrapper {
+	float: left;
+}
+
+/* by default, the slide is set to 80% of the width of the wrapper--this gives us some margin to play with */
+/* the slide contains the left and right buttons as well as the content itself */
+.slide {
+	border: 1px solid #D1D1D1;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #E2E2E2;
+	margin: auto;
+	width: 80%;
+	height: 80%;
+	padding: 20px;
+}
+.slide-button {
+	margin-top: 105px;
+	height: 30px;
+	width: 30px;
+	float: left;
+}
+.slide-button.left {
+	/*margin-top: 105px;*/
+	/* fix for browsers lacking SVG support -- http://www.broken-links.com/2010/06/14/using-svg-in-backgrounds-with-png-fallback/ */
+	background-image: url('images/arrow_left.png');
+	background-image: none,url('images/arrow_left.svg'), url('images/arrow_left.png');
+}
+.slide-button.left:hover {
+	background-image: url('images/arrow_left_hover.png');
+	background-image: none,url('images/arrow_left_hover.svg'), url('images/arrow_left_hover.png');
+}
+.slide-button.right {
+	/*margin-bottom: 105px;*/
+	background-image: url('images/arrow_right.png');
+	background-image: none,url('images/arrow_right.svg'), url('images/arrow_right.png');
+}
+.slide-button.right:hover {
+	background-image: url('images/arrow_right_hover.png');
+	background-image: none,url('images/arrow_right_hover.svg'), url('images/arrow_right_hover.png');
+}
+.button-arrow {
+	fill: #fff;
+	stroke: #d1d1d1;
+	stroke-width: 1px;
+}
+.button-arrow:hover {
+	stroke: #fff;
+}
+.slide-content {
+	float: left;
+	padding: 20px;
+}
+
+
