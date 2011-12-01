@@ -12,8 +12,8 @@ codium_extend is free software: you can redistribute it and/or modify it under t
 	
 // This theme allows users to set a custom header image
 	define('HEADER_TEXTCOLOR', '444');
-	define('HEADER_IMAGE_WIDTH', 980); // use width and height appropriate for your theme
-	define('HEADER_IMAGE_HEIGHT', 250);
+	define('HEADER_IMAGE_WIDTH', 1058); // use width and height appropriate for your theme
+	define('HEADER_IMAGE_HEIGHT', 68);
 	
 // gets included in the site header
 function codium_extend_header_style() {
