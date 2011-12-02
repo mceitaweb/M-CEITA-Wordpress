@@ -1081,16 +1081,12 @@ h2.handle a {
 	text-decoration: none;
 	display: block;
 	padding: 0 05px 0;
-	color: #333;
-}
-h2.handle a:hover {
-	color: #333;
+	color: #666;
 }
 h2.active {background-position: left bottom;}
 .service_content_container {
 	margin: 0 0 0 0; padding: 0;
 	overflow: hidden;
-
 	width: 500px;
 	clear: both;
 	background: #C5D1D9;
@@ -1108,7 +1104,7 @@ h2.active {background-position: left bottom;}
 	float: left;
 	padding: 0 5px 0 5px;
 }
-.service_content_container .quote {
+.service_content_container.quote {
 	font-style: italic;
 	color: #7D86A8;
 	text-align: right;
