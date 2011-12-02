@@ -16,8 +16,8 @@ nav, nav ul ul, .postformat, .page-header, .widget-title {
 }
 .widget ul li a:hover {
 	/*border-bottom:  1px dashed #A3D9BA;*/
-	color: #A3D9BA;
-	}
+	color: #C5D1D9;
+}
 #submit, #searchform #searchsubmit {
 	background: #A3D9BA url(line.png) top left repeat-x;
 	border: 1px solid #A3D9BA;
@@ -27,8 +27,8 @@ nav, nav ul ul, .postformat, .page-header, .widget-title {
 	}
 .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6 {color: #A3D9BA;}
 /* --- --- [ Corners ] --- --- */
-
 .left-corner {
+
 	position: absolute;
 	bottom: -9px;
 	left: 0;

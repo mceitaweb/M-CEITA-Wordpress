@@ -810,7 +810,6 @@ aside {
 	border-bottom: none;
 }
 .widget ul li a {
-	color: #666;
 	text-decoration: none;
 }
 /* --- --- --- [ Recent Comments ] --- --- --- */
@@ -1013,4 +1012,7 @@ nav, nav ul ul, .postformat, .page-header, .widget-title {
 	border: 1px solid #C5D1D9;
 	background: #41A66C;
 }
-
+.execphpwidget {
+	padding-top: 10px;
+	padding-right: 10px;
+}
