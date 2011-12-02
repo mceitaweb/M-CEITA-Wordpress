@@ -37,6 +37,11 @@ foreach ($options as $value) {
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
 <?php echo stripslashes($wpl_ga_code); ?>
 <?php wp_head(); ?>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+<script type="text/javascript"
+   src="<?php bloginfo("template_url"); ?>/js/showcase.js"></script>
+<script type="text/javascript"
+   src="<?php bloginfo("template_url"); ?>/js/accordion.js"></script>
 	</head>
 <body <?php body_class('two-column right-sidebar'); ?>>
 <div id="page">
