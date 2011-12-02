@@ -2,7 +2,7 @@
 /* color */ /* #A3D9BA */
 
 a, a:hover, #site-title a:hover, .entry-title a:hover, #recentcomments li a, .widget ul li .rsswidget, .edit-i a, .comment-awaiting-moderation  {
-	color: #A3D9BA;
+	color: #7D86A8;
 }
 nav, nav ul ul, .postformat, .page-header, .widget-title {
 	background: #A3D9BA url(line.png) top left repeat-x;
