@@ -1069,8 +1069,8 @@ nav, nav ul ul, .postformat, .page-header, .widget-title {
 h2.handle {
 	padding: 0;
 	margin: 5px 0 0 0;
-	background: #C5D1D9;
-	border: 1px solid #7D86A8;
+	background: transparent url(images/entry-header.png) top left repeat-x;
+	border: 1px solid #C5D1D9;
 	height: 36px;	line-height: 36px;
 	width: 500px;
 	font-size: 1.25em;
@@ -1108,7 +1108,7 @@ h2.active {background-position: left bottom;}
 	float: left;
 	padding: 0 5px 0 5px;
 }
-.quote {
+.service_content_container .quote {
 	font-style: italic;
 	color: #7D86A8;
 	text-align: right;
