@@ -210,6 +210,7 @@ nav ul li.current_page_item > a, nav ul li.current-menu-ancestor > a, nav ul li.
 	width: 290px;
 	float: right;
 	margin: 20px -10px 0 0;
+	font-size: 12px;
 }
 .page-header {
 	position: relative;
@@ -1009,7 +1010,7 @@ nav, nav ul ul, .postformat, .page-header, .widget-title {
 
 /*added rules*/
 .sub-menu {
-	background: #41A66C;
 	border: 1px solid #C5D1D9;
+	background: #41A66C;
 }
 
