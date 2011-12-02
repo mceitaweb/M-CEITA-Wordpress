@@ -1087,7 +1087,7 @@ h2.handle a:hover {
 	color: #333;
 }
 h2.active {background-position: left bottom;}
-.content_container {
+.service_content_container {
 	margin: 0 0 0 0; padding: 0;
 	overflow: hidden;
 
@@ -1097,14 +1097,14 @@ h2.active {background-position: left bottom;}
 	border: 1px solid #7D86A8;
 	color: #333;
 }
-.content_container .block {
+.service_content_container .block {
 	padding: 20px;
 }
-.content_container .block p {
+.service_content_container .block p {
 	padding: 5px 0;
 	margin: 5px 0;
 }
-.content_container img {
+.service_content_container img {
 	float: left;
 	padding: 0 5px 0 5px;
 }
