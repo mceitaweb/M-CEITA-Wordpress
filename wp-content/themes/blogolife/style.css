@@ -1033,7 +1033,6 @@ nav, nav ul ul, .postformat, .page-header, .widget-title {
 	padding-top: 2%;
 	min-width: 100px;
 	line-height: 12px;
-	font-size: 10px;
 	-webkit-transition: all 150ms ease-in;
 	-moz-transition: all 150ms ease-in;
 	-o-transition: all 150ms ease-in;
@@ -1048,7 +1047,7 @@ nav, nav ul ul, .postformat, .page-header, .widget-title {
 	height: 80px;
 	min-width: 100px;
 	overflow: hidden;
-	border: 1px solid #024A21;
+	border: 1px solid #7D86A8;
 	margin-bottom: 5px;
 	background-color: #FFF;
 	-webkit-transition: all 150ms ease-in;
@@ -1060,4 +1059,7 @@ nav, nav ul ul, .postformat, .page-header, .widget-title {
 .partner_badge:hover {
 	border-color: #41A66C;
 }
-
+.partner_cell p {
+	font-size: 11px;
+	line-height: 13px;
+}
