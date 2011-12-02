@@ -1,6 +1,6 @@
 //showcase.js
 //written using jquery 1.7.0
-var$j = jQuery.noConflict();
+var $j = jQuery.noConflict();
 
 var showcase_width;
 var animation_time = 2000; //time for slides to animate
