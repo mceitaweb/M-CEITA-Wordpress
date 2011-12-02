@@ -151,7 +151,7 @@ nav ul ul {
 	z-index: 99999;
 }
 nav ul ul li {
-	min-width: 180px;
+	min-width: 200px;
 	padding: 10px 0 10px 0;
 }
 nav ul ul li a {
