@@ -1123,7 +1123,7 @@ h2.active {background-position: left bottom;}
 /* window for viewing slides
 we use overflow: hidden to prevent any slides not in the window from being displayed */
 #showcase {
-	width: 75%; /* this width can be modified safely */
+	width: 95%; /* this width can be modified safely */
 	margin: auto;
 	overflow: hidden;
 }
