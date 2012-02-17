@@ -9,7 +9,7 @@ get_footer(); ?>
 .col2 {
 	width: 923px;
 }
-#content {
+.right-sidebar #content {
 	width: 972px;
 }
 </style>
