@@ -2,7 +2,7 @@ var $j = jQuery.noConflict();
 
 $j(document).ready(function(){
 
-	$j('.sub-menu').filter('li:parent').append('<img src="images/drop_down.png" />');
+	$j('.sub-menu').parents('li').append('<img src="images/drop_down.png" />'); 
 	
 	$j('.service_content_container').hide();
 	//$j('.handle').filter(':first').addClass('active').next().show();
