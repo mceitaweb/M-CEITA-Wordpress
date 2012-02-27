@@ -43,13 +43,6 @@ foreach ($options as $value) {
 <script type="text/javascript"
    src="<?php bloginfo("template_url"); ?>/js/accordion.js"></script>
 	</head>
-<script type="text/javascript">
-var $j = jQuery.noConflict();
-
-$j(document).ready(function(){
-	$j('.sub-menu').filter('li:parent').append('<img src="drop_down.png" />');
-};
-</script>
 <body <?php body_class('two-column right-sidebar'); ?>>
 <div id="page">
 <header id="branding">
