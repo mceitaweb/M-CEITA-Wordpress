@@ -2,7 +2,7 @@ var $j = jQuery.noConflict();
 
 $j(document).ready(function(){
 
-	$j('.sub-menu').parents('li').append('<img src="themes/blogolife/images/drop_down.png" />'); 
+	$j('.sub-menu').parents('li').append('<img src="http://204.106.31.83/wp-content/uploads/2012/02/drop_down.png" />'); 
 	
 	$j('.service_content_container').hide();
 	//$j('.handle').filter(':first').addClass('active').next().show();
