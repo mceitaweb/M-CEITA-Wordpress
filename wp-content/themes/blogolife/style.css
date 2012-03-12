@@ -1131,6 +1131,7 @@ overflow: hidden;
 /* contains all of the slide wrappers--width is set dynamically by showcase.js */
 #slide-reel {
 position: relative;
+line-height: 150%;
 }
 
 /* the slide-wrapper allows us to vary the width of the slide itself without being pixel precise */
