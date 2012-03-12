@@ -36,7 +36,7 @@ M-CEITA can help you
 </div>
 </div>
 
-<h2 class="handle"><a style="float: left;" href="#">I'm a healthcare provider and I don’t know why I should adopt an EHR</a></h2>
+<h2 class="handle"><a style="float: left;" href="#">I'm a healthcare provider and I don't know why I should adopt an EHR</a></h2>
 <div class="service_content_container">
 <div class="block">
 M-CEITA can help you
@@ -48,7 +48,7 @@ M-CEITA can help you
 </div>
 </div>
 
-<h2 class="handle"><a style="float: left;" href="#">I’m just curious about the Meaningful Use EHR Incentive Program</a></h2>
+<h2 class="handle"><a style="float: left;" href="#">I'm just curious about the Meaningful Use EHR Incentive Program</a></h2>
 <div class="service_content_container">
 <div class="block">
 M-CEITA can help you
