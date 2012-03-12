@@ -26,6 +26,7 @@ M-CEITA can help you
 </div>
 
 <h2 class="handle"><a style="float: left;" href="#">I'm a healthcare provider who is considering EHR adoption</a></h2>
+<div class="options_container">
 <div class="service_content_container">
 <div class="block">
 M-CEITA can help you
@@ -56,6 +57,8 @@ M-CEITA can help you
 <li>Learn about Meaningful Use </li>
 </ul>
 </div>
+</div>
+
 </div>
 
 	</div>
