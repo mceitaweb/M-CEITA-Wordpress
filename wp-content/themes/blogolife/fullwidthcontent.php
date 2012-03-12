@@ -9,20 +9,55 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 <header class="entry-header"><h1 class="entry-title"><a href="<?php the_permalink(); ?>" title="<?php printf( esc_attr__( 'Permalink to %s', 'wplook' ), the_title_attribute( 'echo=0' ) ); ?>" rel="bookmark"><?php the_title(); ?></a></h1></header>
 
-<div class="entry-content">
-			<?php the_content( __( 'Continue reading <span class="meta-nav">&rarr;</span>', 'wplook' ) ); ?>
-			<?php wp_link_pages( array( 'before' => '<div class="page-link"><span>' . __( 'Pages:', 'wplook' ) . '</span>', 'after' => '</div>' ) ); ?>
-		<div class="clear"></div>
-		</div><!-- .entry-content -->
-			<footer class="entry-meta">
-				<div class="date-i fleft"><a href="<?php the_permalink(); ?>" title="<?php printf( esc_attr__( 'Permalink to %s', 'wplook' ), the_title_attribute( 'echo=0' ) ); ?>" rel="nofollow"><?php the_time('F jS, Y') ?></a></div>
-				<?php if ( comments_open() ) : ?>
-	<div class="comment-i fleft"><?php comments_popup_link( 'No comments yet', '1 comment', '% comments', 'comments-link', 'Comments are off');?></div>
-	<?php endif; ?>
-				<div class="author-i fleft"><?php wplook_get_author();?></div>
-				<?php edit_post_link( __( 'Edit', 'wplook' ), '<div class="edit-i fright">', '</div>' ); ?>
-				<div class="clear"></div>
-			</footer>
-		</div>
-		<div class="clear"></div>
-	</article>	
+	<div class="entry-content">
+	<img src="http://204.106.31.83/wp-content/uploads/2012/03/mceita_home_pic.jpg" alt="" title="mceita_home_pic" width="380" height="253" class="alignleft size-full wp-image-574" /><br />M-CEITA is your trusted advisor for adoption and effective use of Electronic Health Records (EHR).
+Which statement best describes you?
+<h2 class="handle"><a style="float: left;" href="#">I知 a healthcare provider who has already adopted an EHR</a></h2>
+<div class="service_content_container">
+<div class="block">
+M-CEITA can help you
+<ul>
+<li>Learn about Meaningful Use</li>
+<li>Attest to Meaningful Use and collect incentive payments from the government.</li>
+<li>Enhance your IT workflow with Lean process redesign</li>
+<li>Connect with other State and Federal resources</li>
+</ul>
+</div>
+</div>
+
+<h2 class="handle"><a style="float: left;" href="#">I知 a healthcare provider who is considering EHR adoption</a></h2>
+<div class="service_content_container">
+<div class="block">
+M-CEITA can help you
+<ul>
+<li>Select an EHR vendor</li>
+<li>Plan for EHR implementation</li>
+</ul>
+</div>
+</div>
+
+<h2 class="handle"><a style="float: left;" href="#">I知 a healthcare provider and I don稚 know why I should adopt an EHR</a></h2>
+<div class="service_content_container">
+<div class="block">
+M-CEITA can help you
+<ul>
+<li>Understand the costs and benefits of EHR</li>
+<li>Plan for EHR implementation</li>
+<li>Attest to Meaningful Use and collect incentive payments from the government</li>
+</ul>
+</div>
+</div>
+
+<h2 class="handle"><a style="float: left;" href="#">I知 just curious about the Meaningful Use EHR Incentive Program</a></h2>
+<div class="service_content_container">
+<div class="block">
+M-CEITA can help you
+<ul>
+<li>Learn about Meaningful Use </li>
+</ul>
+</div>
+</div>
+
+	</div>
+	<div class="clear"></div>
+</article>	
