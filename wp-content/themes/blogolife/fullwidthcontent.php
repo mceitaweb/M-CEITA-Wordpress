@@ -24,9 +24,9 @@ M-CEITA can help you
 </ul>
 </div>
 </div>
-
-<h2 class="handle"><a style="float: left;" href="#">I'm a healthcare provider who is considering EHR adoption</a></h2>
 <div class="options_container">
+<h2 class="handle"><a style="float: left;" href="#">I'm a healthcare provider who is considering EHR adoption</a></h2>
+
 <div class="service_content_container">
 <div class="block">
 M-CEITA can help you
