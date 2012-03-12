@@ -40,8 +40,6 @@ Although Sheridan Community Hospital's ambulatory practices had originally decid
 </div>
 </div>
 
-<div id="showcase" class="slide-height">
-<div id="slide-reel" class="slide-height">
 <div class="slide-wrapper slide-height">
 <div class="slide">
 <div class="slide-button left"></div>
