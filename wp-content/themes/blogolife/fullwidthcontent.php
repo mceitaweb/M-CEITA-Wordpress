@@ -15,7 +15,7 @@
 	<img src="http://204.106.31.83/wp-content/uploads/2012/03/mceita_home_pic2.jpg" alt="" title="mceita_home_pic2" width="380" height="253" class="alignnone size-full wp-image-599" />
 	<img src="http://204.106.31.83/wp-content/uploads/2012/03/mceita_home_pic3.jpg" alt="" title="mceita_home_pic3" width="380" height="253" class="alignnone size-full wp-image-600" />
 	</div>
-<div class="options_container" style="width: 400px; float: left; display: block;"><h2 style="margin-top: -5px;">M-CEITA is your trusted advisor for adoption and effective use of Electronic Health Records (EHR).<br />Which statement best describes you?</h2>
+<div class="options_container" style="width: 400px; float: left; display: block;"><h2 style="margin-top: -5px;">M-CEITA is your trusted advisor for adoption and effective use of Electronic Health Records (EHR).<br /><br />Which statement best describes you?</h2>
 <h2 class="handle"><a style="float: left;" href="#">I'm a healthcare provider who has already adopted an EHR</a></h2>
 <div class="service_content_container">
 <div class="block">
