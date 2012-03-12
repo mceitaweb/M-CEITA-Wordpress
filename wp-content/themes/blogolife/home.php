@@ -3,9 +3,7 @@
 Template Name: Home
 */
 get_header(); ?>
-<div id="main">
- <div class="entry-content"></div>
-</div>
+<div class="entry-content"></div>
 <?php get_footer(); ?>
 <style type='text/css'>
 #primary {
