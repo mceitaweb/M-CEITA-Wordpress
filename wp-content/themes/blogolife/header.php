@@ -46,7 +46,7 @@ foreach ($options as $value) {
 <body <?php body_class('two-column right-sidebar'); ?>>
 <div id="page">
 <header id="branding">
-<img src="http://204.106.31.83/wp-content/uploads/2012/02/MCEITA-logo.jpg" style="width: 960px;"/>
+<a href="http://204.106.31.83/?page_id=569"><img src="http://204.106.31.83/wp-content/uploads/2012/02/MCEITA-logo.jpg" style="width: 960px;"/></a>
 </header>
 
 <?php if ($wpl_menu == '' || $wpl_menu == 'Display') { ?>
