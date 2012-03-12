@@ -10,9 +10,9 @@
 <header class="entry-header"><h1 class="entry-title"><a href="<?php the_permalink(); ?>" title="<?php printf( esc_attr__( 'Permalink to %s', 'wplook' ), the_title_attribute( 'echo=0' ) ); ?>" rel="bookmark"><?php the_title(); ?></a></h1></header>
 
 	<div class="entry-content">
-	<img src="http://204.106.31.83/wp-content/uploads/2012/03/mceita_home_pic.jpg" alt="" title="mceita_home_pic" width="380" height="253" class="alignleft size-full wp-image-574" /><br />M-CEITA is your trusted advisor for adoption and effective use of Electronic Health Records (EHR).
+	<img src="http://204.106.31.83/wp-content/uploads/2012/03/mceita_home_pic.jpg" alt="" title="mceita_home_pic" width="380" height="253" class="alignleft size-full wp-image-574" />M-CEITA is your trusted advisor for adoption and effective use of Electronic Health Records (EHR).
 Which statement best describes you?
-<h2 class="handle"><a style="float: left;" href="#">I’m a healthcare provider who has already adopted an EHR</a></h2>
+<h2 class="handle"><a style="float: left;" href="#">I'm a healthcare provider who has already adopted an EHR</a></h2>
 <div class="service_content_container">
 <div class="block">
 M-CEITA can help you
@@ -25,7 +25,7 @@ M-CEITA can help you
 </div>
 </div>
 
-<h2 class="handle"><a style="float: left;" href="#">I’m a healthcare provider who is considering EHR adoption</a></h2>
+<h2 class="handle"><a style="float: left;" href="#">I'm a healthcare provider who is considering EHR adoption</a></h2>
 <div class="service_content_container">
 <div class="block">
 M-CEITA can help you
@@ -36,7 +36,7 @@ M-CEITA can help you
 </div>
 </div>
 
-<h2 class="handle"><a style="float: left;" href="#">I’m a healthcare provider and I don’t know why I should adopt an EHR</a></h2>
+<h2 class="handle"><a style="float: left;" href="#">I'm a healthcare provider and I don’t know why I should adopt an EHR</a></h2>
 <div class="service_content_container">
 <div class="block">
 M-CEITA can help you
