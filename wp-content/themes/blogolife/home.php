@@ -4,7 +4,7 @@ Template Name: Home
 */
 get_header(); ?>
 <div id="main">
-Test
+ <div class="entry-content"></div>
 </div>
 <?php get_footer(); ?>
 <style type='text/css'>
