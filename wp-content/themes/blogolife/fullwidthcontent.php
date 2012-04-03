@@ -35,8 +35,8 @@ M-CEITA can help you
 <div class="block">
 M-CEITA can help you
 <ul>
-<li>Select an EHR vendor</li>
-<li>Plan for EHR implementation</li>
+<li><a href="http://204.106.31.83/?page_id=14">Select an EHR vendor</a></li>
+<li><a href="http://204.106.31.83/?page_id=14">Plan for EHR implementation</a></li>
 </ul>
 </div>
 </div>
@@ -46,9 +46,9 @@ M-CEITA can help you
 <div class="block">
 M-CEITA can help you
 <ul>
-<li>Understand the costs and benefits of EHR</li>
-<li>Plan for EHR implementation</li>
-<li>Attest to Meaningful Use and collect incentive payments from the government</li>
+<li><a href="http://204.106.31.83/?page_id=20">Understand the costs and benefits of EHR</a></li>
+<li><a href="http://204.106.31.83/?page_id=14">Plan for EHR implementation</a></li>
+<li><a href="http://204.106.31.83/?page_id=14">Attest to Meaningful Use and collect incentive payments from the government</a></li>
 </ul>
 </div>
 </div>
@@ -58,7 +58,7 @@ M-CEITA can help you
 <div class="block">
 M-CEITA can help you
 <ul>
-<li>Learn about Meaningful Use </li>
+<li><a href="http://204.106.31.83/?page_id=177">Learn about Meaningful Use</a></li>
 </ul>
 </div>
 </div>
