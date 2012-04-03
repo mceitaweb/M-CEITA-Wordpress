@@ -21,10 +21,10 @@
 <div class="block">
 M-CEITA can help you
 <ul>
-<li>Learn about Meaningful Use</li>
-<li>Attest to Meaningful Use and collect incentive payments from the government.</li>
-<li>Enhance your IT workflow with Lean process redesign</li>
-<li>Connect with other State and Federal resources</li>
+<li><a href="http://204.106.31.83/?page_id=177">Learn about Meaningful Use</a></li>
+<li><a href="http://204.106.31.83/?page_id=14">Attest to Meaningful Use and collect incentive payments from the government</a></li>
+<li><a href="http://204.106.31.83/?page_id=14">Enhance your IT workflow with Lean process redesign</a></li>
+<li><a href="http://204.106.31.83/?page_id=14">Connect with other State and Federal resources</a></li>
 </ul>
 </div>
 </div>
