@@ -1161,18 +1161,18 @@ float: left;
 .slide-button.left {
 /*margin-top: 105px;*/
 /* fix for browsers lacking SVG support -- http://www.broken-links.com/2010/06/14/using-svg-in-backgrounds-with-png-fallback/ */
-background-image: url('http://204.106.31.83/wp-content/uploads/2012/03/arrow_left.png');
+background-image: url('/wp-content/uploads/2012/03/arrow_left.png');
 }
 .slide-button.left:hover {
-background-image: url('http://204.106.31.83/wp-content/uploads/2012/03/arrow_left_hover.png');
+background-image: url('/wp-content/uploads/2012/03/arrow_left_hover.png');
 
 }
 .slide-button.right {
 /*margin-bottom: 105px;*/
-background-image: url('http://204.106.31.83/wp-content/uploads/2012/03/arrow_right.png');
+background-image: url('/wp-content/uploads/2012/03/arrow_right.png');
 }
 .slide-button.right:hover {
-background-image: url('http://204.106.31.83/wp-content/uploads/2012/03/arrow_right_hover.png');
+background-image: url('/wp-content/uploads/2012/03/arrow_right_hover.png');
 }
 .button-arrow {
 fill: #fff;

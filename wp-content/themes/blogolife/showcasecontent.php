@@ -25,7 +25,7 @@ Dr. DeLange is a solo practitioner, utilizing Athena Health's complete product (
 <div class="slide-wrapper slide-height">
 <div class="slide">
 <div class="slide-button left"></div>
-<div class="slide-content"><img src="http://204.106.31.83/wp-content/uploads/2012/02/mackinaw_trail_pediatrics-150x150.jpg" alt="" title="mackinaw_trail_pediatrics" width="150" height="150" class="alignleft size-thumbnail wp-image-537" /><b>Mackinaw Trail Pediatrics</b>
+<div class="slide-content"><img src="/wp-content/uploads/2012/02/mackinaw_trail_pediatrics-150x150.jpg" alt="" title="mackinaw_trail_pediatrics" width="150" height="150" class="alignleft size-thumbnail wp-image-537" /><b>Mackinaw Trail Pediatrics</b>
 A rural pediatric practice was struggling with the Medicaid registration process and was unable to seek M-CEITA services due to financial constraints. When the group found out that services were available due to the CIPA/MAG partnership with M-CEITA, they were eager to lean on the guidance of M-CEITA to successfully register all of their providers in the Medicaid incentive program. The practice is grateful for the joint efforts that afforded this opportunity and is now on track to receive their first year reimbursement with their certified EHR product.</div>
 <div class="slide-button right"></div>
 </div>
@@ -34,7 +34,7 @@ A rural pediatric practice was struggling with the Medicaid registration process
 <div class="slide-wrapper slide-height">
 <div class="slide">
 <div class="slide-button left"></div>
-<div class="slide-content"><img src="http://204.106.31.83/wp-content/uploads/2012/02/sheridan_community_hospital-150x150.jpg" alt="" title="sheridan_community_hospital" width="150" height="150" class="alignleft size-thumbnail wp-image-536" /><b>Sheridan Community Hospital</b>
+<div class="slide-content"><img src="/wp-content/uploads/2012/02/sheridan_community_hospital-150x150.jpg" alt="" title="sheridan_community_hospital" width="150" height="150" class="alignleft size-thumbnail wp-image-536" /><b>Sheridan Community Hospital</b>
 Although Sheridan Community Hospital's ambulatory practices had originally decided not to pursue the EHR incentive program-more technology seemed too big of a hurdle-Sheridan's leaders heard an M-CEITA presentation about how to pursue Meaningful Use through the modular approach. Now Sheridan Community Hospital's ambulatory practices are partnering with M-CEITA to qualify and attest for the Meaningful Use program.</div>
 <div class="slide-button right"></div>
 </div>
@@ -68,7 +68,6 @@ Our engagement with Bayview Family Practice &amp; Baraga County Medical Practice
 </div>
 </div>
 </div>
-
-	</div>
-	<div class="clear"></div>
+</div>
+<div class="clear"></div>
 </article>	

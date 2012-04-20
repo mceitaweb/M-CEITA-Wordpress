@@ -11,9 +11,9 @@
 
 	<div class="entry-content">
 	<div class="img-container" style="width: 400px; float: left; display: block;">
-	<img src="http://204.106.31.83/wp-content/uploads/2012/03/mceita_home_pic.jpg" alt="" title="mceita_home_pic" width="380" height="253" class="size-full wp-image-574" />
-	<img src="http://204.106.31.83/wp-content/uploads/2012/03/mceita_home_pic2.jpg" alt="" title="mceita_home_pic2" width="380" height="253" class="alignnone size-full wp-image-599" />
-	<img src="http://204.106.31.83/wp-content/uploads/2012/03/mceita_home_pic3.jpg" alt="" title="mceita_home_pic3" width="380" height="253" class="alignnone size-full wp-image-600" />
+	<img src="/wp-content/uploads/2012/03/mceita_home_pic.jpg" alt="" title="mceita_home_pic" width="380" height="253" class="size-full wp-image-574" />
+	<img src="/wp-content/uploads/2012/03/mceita_home_pic2.jpg" alt="" title="mceita_home_pic2" width="380" height="253" class="alignnone size-full wp-image-599" />
+	<img src="/wp-content/uploads/2012/03/mceita_home_pic3.jpg" alt="" title="mceita_home_pic3" width="380" height="253" class="alignnone size-full wp-image-600" />
 	</div>
 <div class="options_container" style="width: 400px; float: left; display: block;"><h2 style="margin-top: -5px;">M-CEITA is your trusted advisor for adoption and effective use of Electronic Health Records (EHR).<br /><br />Which statement best describes you?</h2>
 <h2 class="handle"><a style="float: left;" href="#">I'm a healthcare provider who has already adopted an EHR</a></h2>
@@ -21,10 +21,10 @@
 <div class="block">
 M-CEITA can help you
 <ul>
-<li><a href="http://204.106.31.83/?page_id=177">Learn about Meaningful Use</a></li>
-<li><a href="http://204.106.31.83/?page_id=14">Attest to Meaningful Use and collect incentive payments from the government</a></li>
-<li><a href="http://204.106.31.83/?page_id=14">Enhance your IT workflow with Lean process redesign</a></li>
-<li><a href="http://204.106.31.83/?page_id=14">Connect with other State and Federal resources</a></li>
+<li><a href="/?page_id=177">Learn about Meaningful Use</a></li>
+<li><a href="/?page_id=14">Attest to Meaningful Use and collect incentive payments from the government</a></li>
+<li><a href="/?page_id=14">Enhance your IT workflow with Lean process redesign</a></li>
+<li><a href="/?page_id=14">Connect with other State and Federal resources</a></li>
 </ul>
 </div>
 </div>
@@ -35,8 +35,8 @@ M-CEITA can help you
 <div class="block">
 M-CEITA can help you
 <ul>
-<li><a href="http://204.106.31.83/?page_id=14">Select an EHR vendor</a></li>
-<li><a href="http://204.106.31.83/?page_id=14">Plan for EHR implementation</a></li>
+<li><a href="/?page_id=14">Select an EHR vendor</a></li>
+<li><a href="/?page_id=14">Plan for EHR implementation</a></li>
 </ul>
 </div>
 </div>
@@ -46,9 +46,9 @@ M-CEITA can help you
 <div class="block">
 M-CEITA can help you
 <ul>
-<li><a href="http://204.106.31.83/?page_id=20">Understand the costs and benefits of EHR</a></li>
-<li><a href="http://204.106.31.83/?page_id=14">Plan for EHR implementation</a></li>
-<li><a href="http://204.106.31.83/?page_id=14">Attest to Meaningful Use and collect incentive payments from the government</a></li>
+<li><a href="/?page_id=20">Understand the costs and benefits of EHR</a></li>
+<li><a href="/?page_id=14">Plan for EHR implementation</a></li>
+<li><a href="/?page_id=14">Attest to Meaningful Use and collect incentive payments from the government</a></li>
 </ul>
 </div>
 </div>
@@ -58,7 +58,7 @@ M-CEITA can help you
 <div class="block">
 M-CEITA can help you
 <ul>
-<li><a href="http://204.106.31.83/?page_id=177">Learn about Meaningful Use</a></li>
+<li><a href="/?page_id=177">Learn about Meaningful Use</a></li>
 </ul>
 </div>
 </div>
