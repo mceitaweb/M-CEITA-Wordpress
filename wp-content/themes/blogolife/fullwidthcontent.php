@@ -11,7 +11,7 @@
 
 	<div class="entry-content">
 	<div class="img-container" style="width: 400px; float: left; display: block;">
-	<img src="http://www.mceita.org/wp-content/uploads/2012/09/Homepagephoto.jpg" alt="" title="mceita_home_pic" width="380" height="253" class="size-full wp-image-574" />
+	<img src="http://www.mceita.org/wp-content/uploads/2012/09/iStock_000017398248XSmall.jpg" alt="" title="mceita_home_pic" width="380" height="253" class="size-full wp-image-574" />
 
 	</div>
 <div class="options_container" style="width: 400px; float: left; display: block;"><h2 style="margin-top: -5px;">M-CEITA is your trusted advisor for adoption and effective use of Electronic Health Records (EHR).<br /><br />Which statement best describes you?</h2>
@@ -22,7 +22,6 @@ M-CEITA can help you
 <ul>
 <li><a href="/?page_id=177">Learn about Meaningful Use</a></li>
 <li><a href="/?page_id=14">Attest to Meaningful Use and collect incentive payments from the government</a></li>
-<li><a href="/?page_id=14">Enhance your IT workflow with Lean process redesign</a></li>
 <li><a href="/?page_id=14">Connect with other State and Federal resources</a></li>
 <li><a href="/?page_id=788">Maintain your meaningful user status</a></li>
 <li><a href="/?page_id=792">Specialist services</a></li>
