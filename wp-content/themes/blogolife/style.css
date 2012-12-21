@@ -199,7 +199,7 @@ nav ul li.current_page_item > a, nav ul li.current-menu-ancestor > a, nav ul li.
 }
 
 .right-sidebar #main {
-	background: #ffffff url(images/right-sidebar-border.png) top right repeat-y;
+	/*background: #ffffff url(images/right-sidebar-border.png) top right repeat-y;*/
 }
 .right-sidebar #content {
 	width: 650px;
@@ -207,7 +207,7 @@ nav ul li.current_page_item > a, nav ul li.current-menu-ancestor > a, nav ul li.
 	margin: 20px 0 0 -10px;
 }
 .right-sidebar #secondary {
-	width: 290px;
+	width: 320px;
 	float: right;
 	margin: 20px -10px 0 0;
 	font-size: 12px;
