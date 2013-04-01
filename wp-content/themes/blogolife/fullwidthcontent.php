@@ -20,11 +20,10 @@
 <div class="block">
 M-CEITA can help you
 <ul>
-<li><a href="/?page_id=177">Learn about Meaningful Use</a></li>
-<li><a href="/?page_id=14">Attest to Meaningful Use and collect incentive payments from the government</a></li>
-<li><a href="/?page_id=14">Connect with other State and Federal resources</a></li>
-<li><a href="/?page_id=788">Maintain your meaningful user status</a></li>
-<li><a href="/?page_id=792">Specialist services</a></li>
+<li><a href="/?page_id=784">Learn about Meaningful Use</a></li>
+<li><a href="/?page_id=784">Attest to Meaningful Use and collect incentive payments from the government</a></li>
+<li><a href="/?page_id=784">Connect with other State and Federal resources</a></li>
+<li><a href="/?page_id=784">Maintain your meaningful user status</a></li>
 </ul>
 </div>
 </div>
@@ -35,27 +34,14 @@ M-CEITA can help you
 <div class="block">
 M-CEITA can help you
 <ul>
-<li><a href="/?page_id=14">Select an EHR vendor</a></li>
-<li><a href="/?page_id=14">Plan for EHR implementation</a></li>
-<li><a href="/?page_id=792">Specialist services</a></li>
+<li><a href="/?page_id=784">Select an EHR vendor</a></li>
+<li><a href="/?page_id=784">Plan for EHR implementation</a></li>
+<li><a href="/?page_id=20">Understand the costs and benefits of EHRs</a></li>
 </ul>
 </div>
 </div>
 
-<h2 class="handle"><a style="float: left;" href="#">I'm a healthcare provider and I don't know why I should adopt an EHR</a></h2>
-<div class="service_content_container">
-<div class="block">
-M-CEITA can help you
-<ul>
-<li><a href="/?page_id=20">Understand the costs and benefits of EHR</a></li>
-<li><a href="/?page_id=14">Plan for EHR implementation</a></li>
-<li><a href="/?page_id=14">Attest to Meaningful Use and collect incentive payments from the government</a></li>
-<li><a href="/?page_id=792">Specialist services</a></li>
-</ul>
-</div>
-</div>
-
-<h2 class="handle"><a style="float: left;" href="#">I'm just curious about the Meaningful Use EHR Incentive Program</a></h2>
+<h2 class="handle"><a style="float: left;" href="#">I'm curious about the Meaningful Use EHR Incentive Program</a></h2>
 <div class="service_content_container">
 <div class="block">
 M-CEITA can help you
